@@ -1,11 +1,11 @@
 ﻿ordreExecution;description;typePeriode;source_name;source_indicatorName;source_indicatorId;source_dataElementName;source_dataElementId;source_categorieComboName;source_categorieComboId;source_categorieComboOptionName;source_categorieComboOptionId;source_orgUnitName;source_orgUnitId;source_orgUnitGroupName;source_orgUnitGroupId;source_orgUnitOfProgramName;source_orgUnitOfProgramId;source_orgUnitOfDataSetName;source_orgUnitOfDataSetId;destination_name;destination_dataElementName;destination_dataElementId;destination_categorieComboName;destination_categorieComboId;destination_categorieComboOptionName;destination_categorieComboOptionId;destination_orgUnitName;destination_orgUnitId;destination_orgUnitGroupName;destination_orgUnitGroupId;destination_orgUnitOfProgramName;destination_orgUnitOfProgramId;destination_orgUnitOfDataSetName;destination_orgUnitOfDataSetId
-1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QDUDM;zOIWjNiyZiV;;;DS;tu3RI5qLbXS;;;;;;;;Produits TB & VIH;t014WNt683s;CO-QDUDM;JumQxAmfKZn;;;;;;;;
-1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QRM;zXdjYgji4gq;;;DS;tu3RI5qLbXS;;;;;;;;Produits TB & VIH;t014WNt683s;CO-QRM;EzS3Dx3y8hP;;;;;;;;
-1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QCM;DNnMkkBbHS7;;;DS;tu3RI5qLbXS;;;;;;;;Produits TB & VIH;t014WNt683s;CO-QCM;lBltZ65GUUH;;;;;;;;
-1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QPM;uM58j6EIdJl;;;DS;tu3RI5qLbXS;;;;;;;;Produits TB & VIH;t014WNt683s;CO-QPM;STOzMpWFByG;;;;;;;;
-1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QAPM;GCO3yIRydt8;;;DS;tu3RI5qLbXS;;;;;;;;Produits TB & VIH;t014WNt683s;CO-QAPM;TjJKEtBQHXQ;;;;;;;;
-1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QDUFM;UQvRh6COF1P;;;DS;tu3RI5qLbXS;;;;;;;;Produits TB & VIH;t014WNt683s;CO-QDUFM;t0lB4xvkNne;;;;;;;;
-1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-NJR;ZFbVBq6YOKO;;;DS;tu3RI5qLbXS;;;;;;;;Produits TB & VIH;t014WNt683s;CO-NJR;CiIxqakydgY;;;;;;;;
+1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QDUDM;zOIWjNiyZiV;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;;;Produits TB & VIH;t014WNt683s;CO-QDUDM;JumQxAmfKZn;;;;;;;;
+1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QRM;zXdjYgji4gq;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;;;Produits TB & VIH;t014WNt683s;CO-QRM;EzS3Dx3y8hP;;;;;;;;
+1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QCM;DNnMkkBbHS7;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;;;Produits TB & VIH;t014WNt683s;CO-QCM;lBltZ65GUUH;;;;;;;;
+1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QPM;uM58j6EIdJl;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;;;Produits TB & VIH;t014WNt683s;CO-QPM;STOzMpWFByG;;;;;;;;
+1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QAPM;GCO3yIRydt8;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;;;Produits TB & VIH;t014WNt683s;CO-QAPM;TjJKEtBQHXQ;;;;;;;;
+1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-QDUFM;UQvRh6COF1P;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;;;Produits TB & VIH;t014WNt683s;CO-QDUFM;t0lB4xvkNne;;;;;;;;
+1;DRD;;NETSIGL_TEST;;;;;DCAPS_VARIABLES;D9URQhBFIKO;CO-NJR;ZFbVBq6YOKO;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;;;Produits TB & VIH;t014WNt683s;CO-NJR;CiIxqakydgY;;;;;;;;
 1;DRD;MENSUELLE;NETSIGL_TEST;;;TB - Solution d'alcool acide 1%, flc/ 1 litre unité;wdX8Y9pP9IV;DCAPS_VARIABLES;D9URQhBFIKO;;;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;DRD-Alcool-acide Litre;n18nWVCTZmM;Produits TB & VIH;t014WNt683s;;;;;;;;;;
 1;DRD;MENSUELLE;NETSIGL_TEST;;;TB - Amikacine 500mg/2ml inj;oVKiR5ibi0Y;DCAPS_VARIABLES;D9URQhBFIKO;;;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;DRD-Amikacine 500 mg Inj;amHo7s7OxVI;Produits TB & VIH;t014WNt683s;;;;;;;;;;
 1;DRD;MENSUELLE;NETSIGL_TEST;;;TB - Bedaquiline 100mg comp;PagoyrtFGQW;DCAPS_VARIABLES;D9URQhBFIKO;;;;;DS;tu3RI5qLbXS;;;;;ENDOS_DEV;DRD-Bedaquilline 100 mg Comprime;p95shgwPi9U;Produits TB & VIH;t014WNt683s;;;;;;;;;;
