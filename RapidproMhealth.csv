@@ -9,9 +9,9 @@ ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro
 1;97983131-fb2f-4340-ae5c-f6702385e62e;ENREGISTREMENT DES PERSONNES;enregpers;8;Téléphone personne;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Contact téléphonique personne ou tuteur;YJE7czFbBaf;;;;;;;;;;;;
 1;97983131-fb2f-4340-ae5c-f6702385e62e;ENREGISTREMENT DES PERSONNES;enregpers;9;date de l'operation;Registre PRISE EN CHARGE;kFjVC6CTFrK;enrolmentDate;incidentDate;;;;;;;;;;;;;;;
 2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;1;Code ASBC;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;orgUnitCode;;Code ASBC;tJEGAbo90wB;;;;;;
-2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;2;code personne;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;;;;Registre PRISE EN CHARGE;kFjVC6CTFrK;Code personne;vadegRbcklv;;
+2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;2;code personne;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;;30.2.Code personne;JYoSCoz2VRf;Registre PRISE EN CHARGE;kFjVC6CTFrK;Code personne;vadegRbcklv;;
 2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;3;code Prise en charge;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;;30.3.Code de prise en charge;kvQS9gw12Rn;;;;;30.3.Code de prise en charge;kvQS9gw12Rn
-2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;4;age en années;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;;age en années;kvQS9gw12Rn;;;;;;
+2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;4;age en années;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;;age en années;OA9Df9MHvrw;;;;;;
 2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;5;Date de prise en charge;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;eventDate;30.4.Date de prise en charge;I07qAGL6kfH;;;;;;
 2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;6;Toux / difficulté respiratoire;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;;30.5.Motif Toux;lUHn2jpd3YU;;;;;;
 2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;7;Fièvre / Corps chaud;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;;30.6.Motif - Fièvre;V8hnF1mIa2U;;;;;;
@@ -23,7 +23,7 @@ ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro
 2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;13;Nombre de TDR utilisés;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;;30.29.Nb TDR Palu;lLpmEDjjj3Z;;;;;;
 2;3d553fd3-7a5d-4581-acaf-0bd92aaa9cb8;PRISE EN CHARGE ADULTE;pecadu;14;Présence de Signe de gravité;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PEC Adultes;R9Y8EzL94I7;;;30.41.Presence signe de gravite;qhFpE8Rr8aR;;;;;;
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;1;Code ASBC;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;orgUnitCode;;Code ASBC;tJEGAbo90wB;;;;;;
-3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;2;code Personne;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;;;Registre PRISE EN CHARGE;kFjVC6CTFrK;Code personne;vadegRbcklv;;
+3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;2;code Personne;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;30.2.Code personne;JYoSCoz2VRf;Registre PRISE EN CHARGE;kFjVC6CTFrK;Code personne;vadegRbcklv;;
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;3;code PEC;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;code PEC;kvQS9gw12Rn;;;;;code PEC;kvQS9gw12Rn
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;4;age en mois;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;age en mois;HkFRGHc6iYy;;;;;;
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;5;Date pec;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;eventDate;Date pec;I07qAGL6kfH;;;;;;
@@ -54,7 +54,7 @@ ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;30;corps chaud;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;corps chaud;axgttkaB2Nt;;;;;;
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;31;jours corps chaud;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;jours corps chaud;ODUPh6jk9hD;;;;;;
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;32;Traitement palu simple disponible;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;Traitement palu simple disponible;AtLMU1QCtkD;;;;;;
-3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;33;Traitement palu grave;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;;;;;;;;
+3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;33;Traitement palu grave;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;Traitement palu grave disponible;Jv8m4EX0ABy;;;;;;
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;34;tdr paludisme;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;tdr paludisme;rdqOgNEbNdl;;;;;;
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;35;Nb TDR palu;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;Nb TDR palu;lLpmEDjjj3Z;;;;;;
 3;73a30dca-ddd6-4130-b418-bfd26f45b0c4;PRISE EN CHARGE ENFANT;pecenf;36;Urine foncées;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;;;PCIME;ZmvLH3erm6x;;;Urine foncées;hUneJr6kTs1;;;;;;
