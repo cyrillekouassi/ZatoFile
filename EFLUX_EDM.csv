@@ -1,3 +1,6 @@
 ﻿ordreExecution;description;typePeriode;source_name;source_indicatorName;source_API;source_orgUnit_Key;destination_name;destination_dataElementName;destination_dataElementId;destination_categorieComboName;destination_categorieComboId;destination_categorieComboOptionName;destination_categorieComboOptionId
 1;EFLUX To EDM;MENSUELLE;EFLUX;recette_totale_par_fs_et_periode;recette_totale_par_fs_et_periode;formation_s_entrepot;EDM;eFlux-Recettes totales des FS;dBkFrQJm0iS;;;;
 1;EFLUX To EDM;MENSUELLE;EFLUX;recette_totale_meg_par_fs_et_periode;recette_totale_meg_par_fs_et_periode;formation_s_entrepot;EDM;eFlux-Recettes totales des ventes MEG;Voun7osQK81;;;;
+1;EFLUX To EDM;MENSUELLE;EFLUX;depense_totales_achats_meg_par_fs_et_periode;depense_totales_achats_meg_par_fs_et_periode;formation_s_entrepot;EDM;eFlux-Dépenses totales des achats MEG des FS;C0gUKGllVHz;;;;
+1;EFLUX To EDM;MENSUELLE;EFLUX;depense_totale_fonctionnement;depense_totale_fonctionnement;formation_s_entrepot;EDM;eFlux-dépenses totales totales de fonctionnement;v4slKX83yH1;;;;
+1;EFLUX To EDM;MENSUELLE;EFLUX;depense_totales_salaires;depense_totales_salaires;formation_s_entrepot;EDM;eFlux-Masse salariale supportée par les FS;VVJOTvWv999;;;;
