@@ -1,4 +1,4 @@
-﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_eventName;dhis_eventId;dhis_eventOrgUnitCode;dhis_eventDate;dhis_eventDataElementName;dhis_eventDataElementId;dhis_DataElementValueUniqueName;dhis_DataElementValueUniqueId;dhis_assignValue
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_eventName;dhis_eventId;dhis_eventOrgUnitCode;dhis_eventDate;dhis_eventDataElementName;dhis_eventDataElementId;dhis_dataElementValueUniqueName;dhis_dataElementValueUniqueId;dhis_assignValue
 1;4d6e012a-9d96-4d3a-9503-07e6208327dd;CAUSERIES EDUCATIVES;asbccaus;1;Code ASBC;Causeries Educatives;t46PLeBAkOE;oui;;;;;;
 1;4d6e012a-9d96-4d3a-9503-07e6208327dd;CAUSERIES EDUCATIVES;asbccaus;2;Code Opération;Causeries Educatives;t46PLeBAkOE;;;Code Opération;QEpj5yfYAej;Code Opération;QEpj5yfYAej;
 1;4d6e012a-9d96-4d3a-9503-07e6208327dd;CAUSERIES EDUCATIVES;asbccaus;3;date de l'operation;Causeries Educatives;t46PLeBAkOE;;oui;;;;;
