@@ -1,12 +1,8 @@
 ﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_programName;dhis_programId;dhis_programEnrolmentDate;dhis_programIncidentDate;dhis_programOrgUnitCode;dhis_attributName;dhis_attributId;dhis_programStageName;dhis_programStageId;dhis_programStageOrgUnitCode;dhis_programStageEventDate;dhis_programStageDataElementName;dhis_programStageDataElementId;dhis_programMasterName;dhis_programMasterId;dhis_attributValueUniqueName;dhis_attributValueUniqueId;dhis_dataElementValueUniqueName;dhis_dataElementValueUniqueId
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;1;Code ASBC;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;oui;;;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;2;Code personne;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Code personne;vadegRbcklv;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;3;Date de naissance;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Date de naissance;AplXoOwAEHl;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;4;Nom;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Nom;jJZYzvVCZnA;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;5;Prénom;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Prénoms;M9N2Nc6wMnI;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;6;Genre;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Sexe;VZqQqA074nT;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;7;Lieu de provenance;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Lieu de Provenance;ajc7q44aFWL;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;8;Téléphone personne;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Contact téléphonique personne ou tuteur;YJE7czFbBaf;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;9;date de l'operation;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Date de l'opération;vO7kFnxcrNj;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;10;Date Enregistrement Personne;Registre PRISE EN CHARGE;kFjVC6CTFrK;oui;oui;;;;;;;;;;;;;;;
-1;5aeecf8a-c455-4332-8112-5fa7afb34254;ENREGISTREMENT DES PERSONNES;enregpers;11;Code Opération;Registre PRISE EN CHARGE;kFjVC6CTFrK;;;;Code Opération;g2gy1LlEUJL;;;;;;;;;;;;
+8;90a62800-2889-4909-a452-f535e90d6d9b;PLANIFICATION GASPA;planigaspa;1;Code ASBC;Gestion des Gaspa;kbmpH4q6sVE;;;oui;;;;;;;;;;;;;;
+8;90a62800-2889-4909-a452-f535e90d6d9b;PLANIFICATION GASPA;planigaspa;2;Code Opération de planification;Gestion des Gaspa;kbmpH4q6sVE;;;;Code de la planification;MRXzjjr4IHZ;;;;;;;Gestion des Gaspa;kbmpH4q6sVE;Code de la planification;MRXzjjr4IHZ;;
+8;90a62800-2889-4909-a452-f535e90d6d9b;PLANIFICATION GASPA;planigaspa;3;Date Opération;Gestion des Gaspa;kbmpH4q6sVE;oui;oui;;;;;;;;;;;;;;;
+8;90a62800-2889-4909-a452-f535e90d6d9b;PLANIFICATION GASPA;planigaspa;4;Code Mois de la GASPA planifié;Gestion des Gaspa;kbmpH4q6sVE;;;;Mois de la GASPA planifié;qAj8agtQmEU;;;;;;;;;;;;
+8;90a62800-2889-4909-a452-f535e90d6d9b;PLANIFICATION GASPA;planigaspa;5;Code Etat de la femme;Gestion des Gaspa;kbmpH4q6sVE;;;;Etat de la femme;zpSuU5WgJoL;;;;;;;;;;;;
+8;90a62800-2889-4909-a452-f535e90d6d9b;PLANIFICATION GASPA;planigaspa;6;Code Groupe affectation;Gestion des Gaspa;kbmpH4q6sVE;;;;Groupe GASPA;j7gpuhI432A;;;;;;;;;;;;
+8;90a62800-2889-4909-a452-f535e90d6d9b;PLANIFICATION GASPA;planigaspa;7;Nombre membre du groupe;Gestion des Gaspa;kbmpH4q6sVE;;;;Nombre membre du groupe;m8gr5q2aM8e;;;;;;;;;;;;
