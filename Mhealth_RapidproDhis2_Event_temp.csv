@@ -1,4 +1,4 @@
-﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_eventName;dhis_eventId;dhis_eventOrgUnitCode;dhis_eventDate;dhis_eventDataElementName;dhis_eventDataElementId;dhis_dataElementValueUnique;dhis_assignValue
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_eventName;dhis_eventId;dhis_eventOrgUnitCode;dhis_eventDate;dhis_eventDataElementName;dhis_eventDataElementId;dhis_valueUnique;dhis_assignValue
 7;0864cfd2-caae-4e8b-bfc2-0e22eb0fae1a;DISTRIBUTION DE STOCK;diststock;1;Code ASBC;Gestion intrant;XzFxUYlBIkN;oui;;;;;
 7;0864cfd2-caae-4e8b-bfc2-0e22eb0fae1a;DISTRIBUTION DE STOCK;diststock;;;Gestion intrant;XzFxUYlBIkN;;;1. Type d'opération;k3StAHJLRVj;;5
 7;0864cfd2-caae-4e8b-bfc2-0e22eb0fae1a;DISTRIBUTION DE STOCK;diststock;2;date de l'operation;Gestion intrant;XzFxUYlBIkN;;oui;;;;
