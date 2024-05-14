@@ -1,8 +1,4 @@
 ﻿ordreExecution;description;typePeriode;source_indicatorLibelle;source_indicatorCode;source_indicatorName;source_data_type;source_orgUnit_Key;destination_dataElementName;destination_dataElementId;destination_categorieComboName;destination_categorieComboId;destination_categorieComboOptionName;destination_categorieComboOptionId
-1;REC To EDM;MENSUELLE;Nombre de consultants;NB-CONSULTANT-MATERNITE;Nombre de consultants en maternité;0;fs_id;REC_Nombre de consultants en maternité;KNMzYOaPmLj;;;;
-1;REC To EDM;MENSUELLE;Nombre de consultants;NB-CONSULTANT-PCIME;Nombre de consultants en PCIME;0;fs_id;REC_Nombre de consultants en PCIME;hBtypOHWjFH;;;;
-1;REC To EDM;MENSUELLE;Nombre de consultants;NB-CONSULTATION-MATERNITE;Nombre de consultation en maternité;0;fs_id;REC_Nombre de consultation en maternité;IGNLVZEQEGY;;;;
-1;REC To EDM;MENSUELLE;Nombre de consultants;NB-CONSULTATION-PCIME;Nombre de consultations en PCIME;0;fs_id;REC_Nombre de consultations en PCIME;NAJH2ODEHyX;;;;
 1;REC To EDM;MENSUELLE;Nombre de nouveaux consultants;NB-NOUV-CONSULTANT-MATERNITE;Nombre de nouveaux consultants en maternité;0;fs_id;REC_Nombre de nouveaux consultants en maternité;vuRoJbGIFw2;;;;
 1;REC To EDM;MENSUELLE;Nombre de nouveaux consultants;NB-NOUV-CONSULTANT-PCIME;Nombre de nouveaux consultants en PCIME;0;fs_id;REC_Nombre de nouveaux consultants en PCIME;NmC03LefJ6c;;;;
 1;REC To EDM;MENSUELLE;Nombre de nouveau contact enfant moins de 5ans;NB-NOUV-CONT-ENF-MOINS-5AN;Nombre de nouveaux consultants chez les moins de 5 ans;1;fs_id;REC_Nombre de nouveaux consultants chez les moins de 5 ans;HnvAQSc4D6x;;;;
