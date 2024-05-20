@@ -39,3 +39,10 @@
 2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;18;Date Enregistrement ASBC;Date Enregistrement ASBC;date_enregistrement_asbc
 2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;19;Type d'ASBC;Type d'ASBC;type_asbc
 2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;20;Code Opération;Code Opération;code_operation
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;1;Code ASBC;Code ASBC;code_asbc
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;2;Numéro CNIB;Numéro CNIB;numero_cnib
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;3;date de l'operation;Date opération;date_operation
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;4;l'ASBC est-il en fin de contrat ?;Fin de contrat;fin_contrat
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;5;Date de fin de contrat;date fin contrat;date_fin_contrat
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;6;Motif de fin contrat;motif fin contrat;motif_fin_contrat
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;7;Code Opération;Code Opération;code_operation
