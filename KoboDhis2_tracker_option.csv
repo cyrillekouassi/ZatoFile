@@ -1,0 +1,15 @@
+﻿kobo_multipleSelectName;kobo_name;kobo_label;dhis_dataElementName;dhis_dataElementId;dhis_attributName;dhis_attributId;dhis_value;;;;;;;;;;;;;;;;;;;;;;
+platHabitelle;t;Tô;cr_plat Tô;WNR36Z6DCWZ;;;oui;;;;;;;;;;;;;;;;;;;;;;
+platHabitelle;riz;Riz;cr_plat Riz;eps3QFkCJOU;;;oui;;;;;;;;;;;;;;;;;;;;;;
+platHabitelle;haricot;Haricot;cr_plat Haricot;xfM5KxpWCk8;;;oui;;;;;;;;;;;;;;;;;;;;;;
+platHabitelle;autres;Autres;cr_plat Autres;L1rCOaZotVZ;;;oui;;;;;;;;;;;;;;;;;;;;;;
+listeMaladies;fi_vre_typho_de;Fièvre typhoïde;cr_maladie Fièvre typhoïde;kAJuCzQctd7;;;oui;;;;;;;;;;;;;;;;;;;;;;
+listeMaladies;malnutrition_aig_e;Malnutrition aigüe;cr_maladie Malnutrition aigüe;o8KQrMz6WV1;;;oui;;;;;;;;;;;;;;;;;;;;;;
+listeMaladies;dysenterie;Dysenterie;cr_maladie Dysenterie;IyPfTBWTQE1;;;oui;;;;;;;;;;;;;;;;;;;;;;
+listeMaladies;diarrh_e;Diarrhée;cr_maladie Diarrhée;fSwOsMZ7vKA;;;oui;;;;;;;;;;;;;;;;;;;;;;
+lieuConsultation;csps;CSPS;cr_FS CSPS;Y93cFeYNrdn;;;oui;;;;;;;;;;;;;;;;;;;;;;
+lieuConsultation;centre_de_soins_religieux;Centre de soins religieux;cr_FS Centre de soins religieux;ZsUBooUfjZ2;;;oui;;;;;;;;;;;;;;;;;;;;;;
+lieuConsultation;infirmerie;Infirmerie;cr_FS Infirmerie;tB6qr5vUt8y;;;oui;;;;;;;;;;;;;;;;;;;;;;
+lieuConsultation;clinique;Clinique;cr_FS Clinique;lg5OTnPGYss;;;oui;;;;;;;;;;;;;;;;;;;;;;
+lieuConsultation;cma;CMA;cr_FS CMA;V4UGA8AmGkm;;;oui;;;;;;;;;;;;;;;;;;;;;;
+lieuConsultation;h_pital;Hôpital;cr_FS Hôpital;PIt6Cbb385n;;;oui;;;;;;;;;;;;;;;;;;;;;;
