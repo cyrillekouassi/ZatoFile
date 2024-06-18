@@ -1,12 +1,12 @@
 ﻿kobo_assetName;kobo_assetUid;kobo_name;kobo_label;kobo_multipleSelectName;dhis_programName;dhis_programId;dhis_date;dhis_orgUnit;dhis_attributName;dhis_attributId;dhis_programStageName;dhis_programStageId;dhis_dataElementName;dhis_dataElementId
-ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;_id;;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Id Kobo;NmxvYkfCN4b;Enquête;;;
-ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Num_ro_d_identifiant;Numéro d’identifiant;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;oui;cr_Numéro d’identifiant;EXWHbwlLROc;Enquête;;;
-ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Nom_de_l_enqu_teur;Nom de l’enquêteur;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Nom de l’enquêteur;TWHwmGTs9n6;Enquête;;;
-ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Date_et_heure;Date et heure;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;oui;;cr_Date et heure;njPYPwM0Jr5;Enquête;;;
-ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Coordonn_es_g_ographiques;Coordonnées géographiques;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Coordonnées géographiques;g7lk3acWAtl;Enquête;;;
-ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Secteur;Secteur;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Secteur;HHogwaB1DFk;Enquête;;;
-ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Pays;Pays;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Pays;gFqe9o0akpi;Enquête;;;
-ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;pr_ciser;préciser;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_préciser pays;tp24a8NOrue;Enquête;;;
+ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;_id;;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Id Kobo;NmxvYkfCN4b;;;;
+ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Num_ro_d_identifiant;Numéro d’identifiant;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;oui;cr_Numéro d’identifiant;EXWHbwlLROc;;;;
+ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Nom_de_l_enqu_teur;Nom de l’enquêteur;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Nom de l’enquêteur;TWHwmGTs9n6;;;;
+ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Date_et_heure;Date et heure;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;oui;;cr_Date et heure;njPYPwM0Jr5;;;;
+ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Coordonn_es_g_ographiques;Coordonnées géographiques;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Coordonnées géographiques;g7lk3acWAtl;;;;
+ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Secteur;Secteur;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Secteur;HHogwaB1DFk;;;;
+ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Pays;Pays;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_Pays;gFqe9o0akpi;;;;
+ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;pr_ciser;préciser;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;cr_préciser pays;tp24a8NOrue;;;;
 ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Nom_et_pr_nom_de_l_enqu_t;Nom et prénom de l’enquêté;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;;;Enquête;LjAuMb6TTRu;cr_Nom et prénom de l’enquêté;i4qGGFgUshC
 ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;Sexe;Sexe;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;;;Enquête;LjAuMb6TTRu;cr_Sexe;y8HoJUEG1eX
 ENQUETE SUR L'ALIMENTATION;a5E83AK4xPAxGA63GkFQtF;pr_ciser_001;préciser;;ENQUETE SUR L'ALIMENTATION _tracker;Z6LKRPf6b4I;;;;;Enquête;LjAuMb6TTRu;cr_préciser sexe;JmgtzpS6VBp
