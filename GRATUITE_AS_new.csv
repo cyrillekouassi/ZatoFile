@@ -1,0 +1,3 @@
+﻿description;typePeriode;typeData;source_indicatorName;source_indicatorId;source_orgUnitName;source_orgUnitId;source_orgUnitGroupName;source_orgUnitGroupId;source_orgUnitOfProgramName;source_orgUnitOfProgramId;source_orgUnitOfDataSetName;source_orgUnitOfDataSetId;valueType
+GRATUITE_AS;MENSUELLE;AGGREGATE;Coût total contrôlé;VmgHhQxTF1n;;;GROUPE CSPS,GROUPE CMA,GROUPE CM SANS LABO,GROUPE CM *AVEC* LABO,GROUPE HOPITAUX;ij7bhaSoPng,uOqmOPs8UX6,xE80Q9WaWLN,xodpwZE7n2X,CVXqXQhBvzl;;;;;coutDeclare
+GRATUITE_AS;MENSUELLE;AGGREGATE;VOLUME TOTAL DES ACTIVITES DE GRATUITE COUT;XOSJ4uB5asy;;;GROUPE CSPS,GROUPE CMA,GROUPE CM SANS LABO,GROUPE CM *AVEC* LABO,GROUPE HOPITAUX;ij7bhaSoPng,uOqmOPs8UX6,xE80Q9WaWLN,xodpwZE7n2X,CVXqXQhBvzl;;;;;coutControle
