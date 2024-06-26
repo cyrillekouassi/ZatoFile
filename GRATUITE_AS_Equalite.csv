@@ -1,0 +1,6 @@
+﻿description;typePeriode;typeData;source_indicatorName;source_indicatorId;source_orgUnitName;source_orgUnitId;source_orgUnitGroupName;source_orgUnitGroupId;source_orgUnitOfProgramName;source_orgUnitOfProgramId;source_orgUnitOfDataSetName;source_orgUnitOfDataSetId;valueType
+GRATUITE_AS_QUALITE;MENSUELLE;TRACKER;Score de l'audit CHR;NTMKcijxIqc.zjuW0h7EyeV;;;;;CHR_16_Checklist niveau CHR - Résultats de l'audit;RDQXCNWkEjB;;;scoreAudit
+GRATUITE_AS_QUALITE;MENSUELLE;TRACKER;Score de l'audit CMA;FuD0K0fsezT.zjuW0h7EyeV;;;;;CMA_16_Checklist niveau CMA/Clinique - Résultats de l'audit;h1RkTAdM3an;;;scoreAudit
+GRATUITE_AS_QUALITE;MENSUELLE;TRACKER;Score de l'audit CHU;rMsTJUSpmog.zjuW0h7EyeV;;;;;CHU_16_Checklist niveau CHU – HOPITAL PRIVE - Résultats de l'audit;N6akMPtyhPw;;;scoreAudit
+GRATUITE_AS_QUALITE;MENSUELLE;TRACKER;Score de l'audit CM;X6iRY1r3XTj.zjuW0h7EyeV;;;;;CM_16_Checklist niveau CM - Résultats de l'audit;h94giQK6zvj;;;scoreAudit
+GRATUITE_AS_QUALITE;MENSUELLE;TRACKER;Score de l'audit CSPS;x2CafRDjn9l.zjuW0h7EyeV;;;;;CSPS_16_Checklist niveau CSPS  - CSI - Résultats de l'audit;g5uhB6RaP7z;;;scoreAudit
