@@ -1,0 +1,48 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;pga_Name;pga_key
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;1;Code ASBC;Code ASBC;code_asbc
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;2;Date opération;Date opération;date_operation
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;3;Distance Aller village-Csps (KM);Distance Aller village-Csps (KM);distance_village_csps
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;4;Nom;Nom;nom
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;5;Prénom;Prénom;prenom
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;6;Date de naissance (JJ/MM/AAAA);Date de naissance (JJ/MM/AAAA);date_naissance
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;7;Genre;Genre;genre
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;8;Niveau d'instruction;Niveau d'instruction;niveau_instruction
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;9;Date recrutement;Date recrutement;date_recrutement
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;10;Numéro CNIB;Numéro CNIB;numero_cnib
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;11;Date établissement. CNIB;Date établissement. CNIB;date_etablissement_cnib
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;12;Lieu étab. CNIB;Lieu étab. CNIB;lieu_etab_cnib
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;13;Num. paiement;Num. paiement;num_paiement
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;14;Num. mHealth;Num. mHealth;num_mhealth
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;15;Autre numéro;Autre numéro;autre_numero
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;16;NuméroICP;NuméroICP;numero_icp
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;17;NuméromHealth ASBC 2;NuméromHealth ASBC 2;numero_mhealth_asbc_2
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;18;Date Enregistrement ASBC;Date Enregistrement ASBC;date_enregistrement_asbc
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;19;Type d'ASBC;Type d'ASBC;type_asbc
+1;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;enregasbc;20;Code Opération;Code Opération;code_operation
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;1;Code ASBC;Code ASBC;code_asbc
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;2;Date de l'opération;Date opération;date_operation
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;3;Distance Aller village-Csps (KM);Distance Aller village-Csps (KM);distance_village_csps
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;4;Nom;Nom;nom
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;5;Prénom;Prénom;prenom
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;6;Date de naissance (JJ/MM/AAAA);Date de naissance (JJ/MM/AAAA);date_naissance
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;7;Genre;Genre;genre
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;8;Niveau d'instruction;Niveau d'instruction;niveau_instruction
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;9;Date recrutement;Date recrutement;date_recrutement
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;10;Numéro CNIB;Numéro CNIB;numero_cnib
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;11;Date établissement. CNIB;Date établissement. CNIB;date_etablissement_cnib
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;12;Lieu étab. CNIB;Lieu étab. CNIB;lieu_etab_cnib
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;13;Num. paiement;Num. paiement;num_paiement
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;14;Num. mHealth;Num. mHealth;num_mhealth
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;15;Autre numéro;Autre numéro;autre_numero
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;16;NuméroICP;NuméroICP;numero_icp
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;17;NuméromHealth ASBC 2;NuméromHealth ASBC 2;numero_mhealth_asbc_2
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;18;Date Enregistrement ASBC;Date Enregistrement ASBC;date_enregistrement_asbc
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;19;Type d'ASBC;Type d'ASBC;type_asbc
+2;289bf3dd-d2f0-4456-a973-44f907c3237f;ENREGISTREMENT DES ASBC;modifasbc;20;Code Opération;Code Opération;code_operation
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;1;Code ASBC;Code ASBC;code_asbc
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;2;Numéro CNIB;Numéro CNIB;numero_cnib
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;3;date de l'operation;Date opération;date_operation
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;4;l'ASBC est-il en fin de contrat ?;Fin de contrat;fin_contrat
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;5;Date de fin de contrat;date fin contrat;date_fin_contrat
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;6;Motif de fin contrat;motif fin contrat;motif_fin_contrat
+3;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;7;Code Opération;Code Opération;code_operation
