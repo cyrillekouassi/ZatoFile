@@ -1,6 +1,6 @@
 ﻿description;fis_indicateur;fis_description;fis_id;fis_groupe;fis_key;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId
-;;;;quantite_cout;quantite;;;Quantite_Cout;UMaU0DHlm3l;Quantite;V3e0z6sQSCv
-;;;;quantite_cout;cout;;;Quantite_Cout;UMaU0DHlm3l;Cout;fsJKcn32fLi
+;;;;quantite_cout;quantite;;;Quantite_Cout;UMaU0DHlm3l;Quantite;Gv3JNxYAwVb
+;;;;quantite_cout;cout;;;Quantite_Cout;UMaU0DHlm3l;Cout;dNttMsO2HVn
 ;;Accouchements normaux;6;quantite_cout;;I.1.1. ACCOUCHEMENTS NORMAUX ACCOUCHEMENTS;C67octzpAFq;Quantite_Cout;UMaU0DHlm3l;;
 ;;Accouchements assistés à l'aide d'instruments/produits;7;quantite_cout;;I.1.2. ACCOUCHEMENTS ASSISTES A L'AIDE D'INSTRUMENTS ET/OU DE PRODUITS  ACCOUCHEMENT;ECCUlUYDsB4;Quantite_Cout;UMaU0DHlm3l;;
 ;;Soins d’urgence aux nouveau-nés;8;quantite_cout;;I.1.3. SOINS D_URGENCE AUX NOUVEAU-NES ACCOUCHEMENT;Hw8coXjWZeu;Quantite_Cout;UMaU0DHlm3l;;
