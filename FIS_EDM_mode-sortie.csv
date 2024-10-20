@@ -1,0 +1,8 @@
+﻿description;fis_indicateur;fis_description;fis_id;fis_groupe;fis_key;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId
+;mode-sortie;Nombre de patients decede;60;;nombre_patient;FIS_Nombre de patients decede;wkKB6Lyy1gf;;;;
+;mode-sortie;Nombre de patients decharge;62;;nombre_patient;FIS_Nombre de patients decharge;dVLcka86nhb;;;;
+;mode-sortie;Nombre de patients evacue;58;;nombre_patient;FIS_Nombre de patients evacue;rO70WhR1knK;;;;
+;mode-sortie;Nombre de patients evade;64;;nombre_patient;FIS_Nombre de patients evade;LFrmZKeoUMV;;;;
+;mode-sortie;Nombre de patients gueris/sortie normal;59;;nombre_patient;FIS_Nombre de patients gueris/sortie normal;iDK50RRW3b8;;;;
+;mode-sortie;Nombre de patients refere;61;;nombre_patient;FIS_Nombre de patients refere;cTwTcc1exc0;;;;
+;mode-sortie;Nombre de patients transfere;63;;nombre_patient;FIS_Nombre de patients transfere;hN384aWwfby;;;;
