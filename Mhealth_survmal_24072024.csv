@@ -1,0 +1,13 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_eventName;dhis_eventId;dhis_eventOrgUnitCode;dhis_eventDate;dhis_eventDataElementName;dhis_eventDataElementId;dhis_valueUnique;dhis_assignValue;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;1;Code ASBC;Surveillance épidémiologique;w7d5BQNFPrF;oui;;;;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;2;date de l'operation;Surveillance épidémiologique;w7d5BQNFPrF;;oui;;;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;3;Cas de Rougeole;Surveillance épidémiologique;w7d5BQNFPrF;;;SurVMal. 01. Cas de Rougeole;LmIrc3qlpHE;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;4;Cas de Diarrhée sanguinolente (avec sang dans les selles);Surveillance épidémiologique;w7d5BQNFPrF;;;SurVMal. 02. Cas de Diarrhée sanguinolente (avec sang dans les selles);pOzwjxZO3VM;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;5;Cas de Tétanos néonatal;Surveillance épidémiologique;w7d5BQNFPrF;;;SurVMal. 03. Cas de Tétanos néonatal;jWuQEOQHJV7;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;6;Cas de Méningite;Surveillance épidémiologique;w7d5BQNFPrF;;;SurVMal. 04. Cas de Méningite;WJorV9wFAHV;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;7;Cas de PFA;Surveillance épidémiologique;w7d5BQNFPrF;;;SurVMal. 05. Cas de PFA;q53qhiTnmF1;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;8;Cas d’Ictère fébrile;Surveillance épidémiologique;w7d5BQNFPrF;;;SurVMal. 06. Cas d’Ictère fébrile;TaFzbgk8brQ;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;9;Cas de Dracunculose (ver de guinée);Surveillance épidémiologique;w7d5BQNFPrF;;;SurVMal. 07. Cas de Dracunculose (ver de guinée);CI967YRN8T8;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;10;Cas de Choléra;Surveillance épidémiologique;w7d5BQNFPrF;;;SurVMal. 08. Cas de Choléra;tItQtRYOyhe;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;11;Cas de Maladie à virus Ebola (MVE);Surveillance épidémiologique;w7d5BQNFPrF;;;SurVMal. 09. Cas de Maladie à virus Ebola (MVE);xzFH8rqCPLl;;;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;survmal;12;Code opération;Surveillance épidémiologique;w7d5BQNFPrF;;;Code Opération;QEpj5yfYAej;oui;;;;;;;;;;;;;

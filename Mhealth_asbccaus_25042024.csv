@@ -1,0 +1,11 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_eventName;dhis_eventId;dhis_eventOrgUnitCode;dhis_eventDate;dhis_eventDataElementName;dhis_eventDataElementId;dhis_valueUnique;dhis_assignValue;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;1;Code ASBC;Causeries Educatives;t46PLeBAkOE;oui;;;;;;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;2;Code Opération;Causeries Educatives;t46PLeBAkOE;;;Code Opération;QEpj5yfYAej;oui;;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;3;date de l'operation;Causeries Educatives;t46PLeBAkOE;;oui;;;;;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;4;Sujet de causerie;Causeries Educatives;t46PLeBAkOE;;;Sujet de causerie;q6S68lrtRvS;;;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;5;Participants Femmes 6 - 14 ans;Causeries Educatives;t46PLeBAkOE;;;Participants Femmes 6 - 14 ans;Z9NE4mIvkr3;;;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;6;Participants Femmes 15 - 19 ans;Causeries Educatives;t46PLeBAkOE;;;Participants Femmes 15 - 19 ans;Sh1AkjL9trT;;;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;7;Participants Femmes 20 et plus;Causeries Educatives;t46PLeBAkOE;;;Participants Femmes 20 et plus;ngsBWiX9f5m;;;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;8;Participants Hommes 6 - 14 ans;Causeries Educatives;t46PLeBAkOE;;;Participants Hommes 6 - 14 ans;NEBfSLZEZ3C;;;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;9;Participants Hommes 15 - 19 ans;Causeries Educatives;t46PLeBAkOE;;;Participants Hommes 15 - 19 ans;NOBkiX1mk3N;;;;;;;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;asbccaus;10;Participants Hommes 20 et plus;Causeries Educatives;t46PLeBAkOE;;;Participants Hommes 20 et plus;KZJu2qzPmr7;;;;;;;;;;;;;;
