@@ -76,7 +76,7 @@
 4;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;23;Sayana Press;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.20 DMPA sc (Sayana press);QF2MPmxEtj3;;;;;;;;;;;;
 4;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;24;TDR pour paludisme;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.21 TDR pour Paludisme;RVcODmzXx8f;;;;;;;;;;;;
 4;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;25;Kit SRO/ZINC;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.15 Kit sro zinc;jXgb8mmiKzp;;;;;;;;;;;;
-2;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
+4;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
 5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;1;4 = stock périmé;;;;;4;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;quantité périmée dans le mois;Ve4s2peDxRt;;;;;;;;
 5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;2;Code ASBC;oui;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
 5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;3;date de l'operation;;;;oui;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
@@ -102,7 +102,7 @@
 5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;23;Sayana Press;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.20 DMPA sc (Sayana press);QF2MPmxEtj3;;;;;;;;;;;;
 5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;24;TDR pour paludisme;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.21 TDR pour Paludisme;RVcODmzXx8f;;;;;;;;;;;;
 5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;25;Kit SRO/ZINC;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.15 Kit sro zinc;jXgb8mmiKzp;;;;;;;;;;;;
-2;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
 6;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;1;5 = stock perdu;;;;;5;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;quantité perdue dans le mois;fC17oAKoDzo;;;;;;;;
 6;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;2;Code ASBC;oui;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
 6;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;3;date de l'operation;;;;oui;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
@@ -128,7 +128,7 @@
 6;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;23;Sayana Press;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.20 DMPA sc (Sayana press);QF2MPmxEtj3;;;;;;;;;;;;
 6;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;24;TDR pour paludisme;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.21 TDR pour Paludisme;RVcODmzXx8f;;;;;;;;;;;;
 6;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;25;Kit SRO/ZINC;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.15 Kit sro zinc;jXgb8mmiKzp;;;;;;;;;;;;
-2;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
+6;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
 7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;1;6 = sotck disponible;;;;;6;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;quantité en fin du mois;JfJdj1t2fJ0;;;;;;;;
 7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;2;Code ASBC;oui;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
 7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;3;date de l'operation;;;;oui;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
@@ -154,7 +154,7 @@
 7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;23;Sayana Press;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.20 DMPA sc (Sayana press);QF2MPmxEtj3;;;;;;;;;;;;
 7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;24;TDR pour paludisme;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.21 TDR pour Paludisme;RVcODmzXx8f;;;;;;;;;;;;
 7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;25;Kit SRO/ZINC;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.15 Kit sro zinc;jXgb8mmiKzp;;;;;;;;;;;;
-2;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
 8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;1;7 = rupture de stock;;;;;7;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;Nombre de jours de rupture dans le mois;XoEaIiIDD5I;;;;;;;;
 8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;2;Code ASBC;oui;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
 8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;3;date de l'operation;;;;oui;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
@@ -180,7 +180,7 @@
 8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;23;Sayana Press;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.20 DMPA sc (Sayana press);QF2MPmxEtj3;;;;;;;;;;;;
 8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;24;TDR pour paludisme;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.21 TDR pour Paludisme;RVcODmzXx8f;;;;;;;;;;;;
 8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;25;Kit SRO/ZINC;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.15 Kit sro zinc;jXgb8mmiKzp;;;;;;;;;;;;
-2;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
+8;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
 9;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;1;8 = ajust. stock positif;;;;;8;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;Ajust. stock positif;DrLriYWfF6i;;;;;;;;
 9;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;2;Code ASBC;oui;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
 9;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;3;date de l'operation;;;;oui;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
@@ -206,7 +206,7 @@
 9;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;23;Sayana Press;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.20 DMPA sc (Sayana press);QF2MPmxEtj3;;;;;;;;;;;;
 9;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;24;TDR pour paludisme;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.21 TDR pour Paludisme;RVcODmzXx8f;;;;;;;;;;;;
 9;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;25;Kit SRO/ZINC;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.15 Kit sro zinc;jXgb8mmiKzp;;;;;;;;;;;;
-2;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
+9;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
 10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;1;9 = ajust. stock negatif;;;;;9;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;Ajust. stock negatif;dJuoY8U7kwU;;;;;;;;
 10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;2;Code ASBC;oui;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
 10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;3;date de l'operation;;;;oui;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;;;;;;;;;;;;;;
@@ -232,4 +232,4 @@
 10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;23;Sayana Press;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.20 DMPA sc (Sayana press);QF2MPmxEtj3;;;;;;;;;;;;
 10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;24;TDR pour paludisme;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.21 TDR pour Paludisme;RVcODmzXx8f;;;;;;;;;;;;
 10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;25;Kit SRO/ZINC;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.15 Kit sro zinc;jXgb8mmiKzp;;;;;;;;;;;;
-2;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;rapstmens;26;Gants en vrac;;;;;;I- GESTION INTRANTS MENSUELLE;nf6bFxkSUW5;Mois_1.22 Gants en vrac;PK0CzrHDFrp;;;;;;;;;;;;
