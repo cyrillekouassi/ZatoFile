@@ -1,53 +1,53 @@
-﻿description;fis_typeData;fis_slug;fis_elementName;fis_elementKey;fis_elementId;fis_groupeCode;fis_entrieKey;fis_structureKey;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_orgUnitKey
+﻿description;fis_typeData;fis_slug;fis_elementKey;fis_elementName;fis_elementId;fis_groupeCode;fis_valueKey;fis_structureKey;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_orgUnitKey
 ;;;;;;quantite_cout;quantite;;;;Quantite_Cout;UMaU0DHlm3l;Quantite;Gv3JNxYAwVb;
 ;;;;;;quantite_cout;cout;;;;Quantite_Cout;UMaU0DHlm3l;Cout;dNttMsO2HVn;
-;rapport;;Accouchements normaux;id_prestation;6;quantite_cout;;id_structure;I.1.1. ACCOUCHEMENTS NORMAUX ACCOUCHEMENTS;C67octzpAFq;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Accouchements assistés à l'aide d'instruments/produits;id_prestation;7;quantite_cout;;id_structure;I.1.2. ACCOUCHEMENTS ASSISTES A L'AIDE D'INSTRUMENTS ET/OU DE PRODUITS  ACCOUCHEMENT;ECCUlUYDsB4;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Soins d’urgence aux nouveau-nés;id_prestation;8;quantite_cout;;id_structure;I.1.3. SOINS D_URGENCE AUX NOUVEAU-NES ACCOUCHEMENT;Hw8coXjWZeu;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Soins obstétricaux d’urgence;id_prestation;9;quantite_cout;;id_structure;I.1.4. SOINS OBSTETRICAUX D_URGENCE ACCOUCHEMENT;EZxbRgA5BZq;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Soins curatifs du post partum;id_prestation;11;quantite_cout;;id_structure;I.1.5. SOINS CURATIFS DU POST PARTUM ACCOUCHEMENT;Aj5ekblACXc;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Césariennes;id_prestation;12;quantite_cout;;id_structure;I.1.6. CESARIENNES ACCOUCHEMENT;L2GKaySzx81;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Laparatomie pour rupture utérine;id_prestation;93;quantite_cout;;id_structure;I.1.7. LAPAROTOMIE POUR RUPTURE UTERINE ACCOUCHEMENT;EqG1g7F8N6Q;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Laparotomie pour GEU;id_prestation;14;quantite_cout;;id_structure;I.1.8. LAPAROTOMIE POUR GEU ACCOUCHEMENT;VVKi9MjBzmt;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Cure de fistules obstétricales;id_prestation;15;quantite_cout;;id_structure;I.1.9. CURE DE FISTULES OBSTETRICALES ACCOUCHEMENT;UE15LtMhNLd;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;II.2.1.Carburant évacuation;id_prestation;150;quantite_cout;;id_structure;I.2.1. CARBURANT EVACUATION ACCOUCHEMENT;tlFGVNO6JDp;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;II.2.2.Montant total des médicaments et consommables médicaux;id_prestation;151;quantite_cout;;id_structure;I.2.2. MONTANT TOTAL DES MEDICAMENTS ACCOUCHEMENT;b5zddUTPqbx;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;II.2.4.Actes (consultations);id_prestation;153;quantite_cout;;id_structure;I.2.3. ACTES CONSULTATION_ACCOUCHEMENT_INTERVENTION_OBSTETRICALES;HWni6oxix39;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;II.2.5.Mise en observation/Hospitalisation;id_prestation;154;quantite_cout;;id_structure;I.2.4. ACCOUCHEMENT HOSPITALISATION/MISE EN OBSERVATION ACCOUCHEMENT;GGj1rTezVkm;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;II.2.3.Examens complémentaires;id_prestation;152;quantite_cout;;id_structure;I.2.5. EXAMENS COMPLEMENTAIRES ACCOUCHEMENT;treytA0cihL;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Soins préventifs;id_prestation;34;quantite_cout;;id_structure;II.1.1. SOINS PREVENTIFS GROSSESSE;wH8wwOjLuWn;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Soins curatifs en ambulatoire;id_prestation;35;quantite_cout;;id_structure;II.1.2. SOINS CURATIFS EN AMBULATOIRE GROSSESSE;W9RA9p4esbn;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Soins curatifs en interne (hospitalisation ou mise en observation);id_prestation;36;quantite_cout;;id_structure;II.1.3. SOINS CURATIFS EN INTERNE HOSPITALISATION OU MISE EN OBSERVATION GROSSESSE;HvpFmo9uYaQ;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;I.2.1.Carburant évacuation;id_prestation;140;quantite_cout;;id_structure;II.2.1. CARBURANT EVACUATION GROSSESSE;YkBq4PRnLQO;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;I.2.2.Montant total des médicaments et consommables médicaux;id_prestation;141;quantite_cout;;id_structure;II.2.2. MONTANT TOTAL DES MEDICAMENTS GROSSESSE;f7MEjWMvfWa;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;I.2.4.Actes (consultations);id_prestation;143;quantite_cout;;id_structure;II.2.3. ACTES CONSULTATION_ACCOUCHEMENT_INTERVENTION GROSSESSE;P3bkU5bGGhU;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;I.2.5.Mise en observation/Hospitalisation;id_prestation;144;quantite_cout;;id_structure;II.2.4. HOSPITALISATION/MISE EN OBSERVATION GROSSESSE;SzvzKYAuVGk;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;I.2.3.Examens complémentaires;id_prestation;142;quantite_cout;;id_structure;II.2.5. EXAMENS COMPLEMENTAIRES GROSSESSE;alThHtLWpM6;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Ligature des trompes;id_prestation;22;quantite_cout;;id_structure;III.1.1. LIGATURE DES TROMPES PF;aWeJSDEnTBu;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Sayana Press;id_prestation;29;quantite_cout;;id_structure;III.1.10. SAYANA PRESS PF;KnG0D59pT9h;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Pilule;id_prestation;30;quantite_cout;;id_structure;III.1.11. PILULE PF;AK5b6ermOdI;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Condom masculin;id_prestation;31;quantite_cout;;id_structure;III.1.12. CONDOM MASCULIN PF;m5nUTyDn0jc;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Condom féminin;id_prestation;32;quantite_cout;;id_structure;III.1.13. CONDOM FEMININ PF;RDBwcoqxZoP;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Collier;id_prestation;33;quantite_cout;;id_structure;III.1.14. COLLIER PF;k8MYymX0LDF;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Vasectomie;id_prestation;23;quantite_cout;;id_structure;III.1.2. VASECTOMIE PF;N4IYjsBVk1Z;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;DIU insertion ou retrait;id_prestation;25;quantite_cout;;id_structure;III.1.3. DIU INSERTION OU RETRAIT PF;bIuRc0t7VKU;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Implant 5 ans insertion ou retrait;id_prestation;26;quantite_cout;;id_structure;III.1.4. IMPLANT 5 ANS INSERTION OU RETRAIT PF;qFsddqNT8SR;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Implant 3 ans insertion ou retrait;id_prestation;27;quantite_cout;;id_structure;III.1.5. IMPLANT 3 ANS INSERTION OU RETRAIT PF;ey5T5fX5HaR;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Depo-Provera;id_prestation;28;quantite_cout;;id_structure;III.1.9. DEPO-PROVERA PF;gIPzhdHCt2E;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;V.2.2.Montant total des médicaments et consommables médicaux;id_prestation;161;quantite_cout;;id_structure;III.2.1. MONTANT TOTAL DES MEDICAMENTS ET CONSOMMABLES MEDICAUX PF;SqSq6duOBuc;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;V.2.3.Examens complémentaires;id_prestation;162;quantite_cout;;id_structure;III.2.2. EXAMENS COMPLEMENTAIRES PF;kgwsTITsUzy;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;V.2.4.Actes (consultations);id_prestation;163;quantite_cout;;id_structure;III.2.3. ACTES PF;tss1eVyOJjH;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;V.2.1.Carburant évacuation;id_prestation;160;quantite_cout;;id_structure;III.2.4. CARBURANT SI EVACUATION PF;lAqsZNzpmDX;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Soins curatifs en ambulatoire;id_prestation;20;quantite_cout;;id_structure;IV.1.1. SOINS CURATIFS EN AMBULATOIRE ENFANTS;InGas9oaZSN;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Soins curatifs en hospitalisation;id_prestation;21;quantite_cout;;id_structure;IV.1.2. SOINS CURATIFS EN HOSPITALISATION/MISE EN OBSERVATION ENFANTS;oRFOXKPOKOn;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;IV.2.1.Carburant évacuation;id_prestation;155;quantite_cout;;id_structure;IV.2.1. CARBURANT EVACUATION ENFANTS;iFD7tnorZlt;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;IV.2.2.Montant total des médicaments et consommables médicaux;id_prestation;156;quantite_cout;;id_structure;IV.2.2. MONTANT TOTAL DES MEDICAMENTS ENFANTS;O0h8l5hpREm;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;IV.2.4.Actes (consultations);id_prestation;158;quantite_cout;;id_structure;IV.2.3. ACTES CONSULTATION_ACCOUCHEMENT_INTERVENTION ENFANTS;g74JOV7Vbnu;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;IV.2.5.Mise en observation/Hospitalisation;id_prestation;159;quantite_cout;;id_structure;IV.2.4. HOSPITALISATION/MISE EN OBSERVATION ENFANTS;AU3K2CsEPT0;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;IV.2.3.Examens complémentaires;id_prestation;157;quantite_cout;;id_structure;IV.2.5. EXAMENS COMPLEMENTAIRES ENFANTS;QoGjtjGiPVU;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;IVA/IVL;id_prestation;16;quantite_cout;;id_structure;V.1.1. IVA/IVL DEPISTAGE;W42yK7NqsGA;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Cryothérapie;id_prestation;17;quantite_cout;;id_structure;V.1.2. CRYOTHERAPIE DEPISTAGE;XAIZKwukJRb;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;Résection à l’Anse Diathermique (RAD);id_prestation;18;quantite_cout;;id_structure;V.1.3. RESECTION A L_ANSE DIATHERMIQUE RAD DEPISTAGE;eDb3M21Cwpm;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;III.2.2.Montant total des médicaments et consommables médicaux;id_prestation;146;quantite_cout;;id_structure;V.2.1 MONTANT TOTAL DES MEDICAMENTS DEPISTAGE;J3WGodYDMPm;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;III.2.4.Actes (consultations);id_prestation;148;quantite_cout;;id_structure;V.2.2. ACTES CONSULTATIONS_HOSPITALISATION DEPISTAGE;oXOXwucJXc9;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
-;rapport;;III.2.3.Examens complémentaires;id_prestation;147;quantite_cout;;id_structure;V.2.3. EXAMENS COMPLEMENTAIRES DEPISTAGE;soBSH0ujCXj;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Accouchements normaux;6;quantite_cout;;id_structure;I.1.1. ACCOUCHEMENTS NORMAUX ACCOUCHEMENTS;C67octzpAFq;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Accouchements assistés à l'aide d'instruments/produits;7;quantite_cout;;id_structure;I.1.2. ACCOUCHEMENTS ASSISTES A L'AIDE D'INSTRUMENTS ET/OU DE PRODUITS  ACCOUCHEMENT;ECCUlUYDsB4;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Soins d’urgence aux nouveau-nés;8;quantite_cout;;id_structure;I.1.3. SOINS D_URGENCE AUX NOUVEAU-NES ACCOUCHEMENT;Hw8coXjWZeu;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Soins obstétricaux d’urgence;9;quantite_cout;;id_structure;I.1.4. SOINS OBSTETRICAUX D_URGENCE ACCOUCHEMENT;EZxbRgA5BZq;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Soins curatifs du post partum;11;quantite_cout;;id_structure;I.1.5. SOINS CURATIFS DU POST PARTUM ACCOUCHEMENT;Aj5ekblACXc;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Césariennes;12;quantite_cout;;id_structure;I.1.6. CESARIENNES ACCOUCHEMENT;L2GKaySzx81;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Laparatomie pour rupture utérine;93;quantite_cout;;id_structure;I.1.7. LAPAROTOMIE POUR RUPTURE UTERINE ACCOUCHEMENT;EqG1g7F8N6Q;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Laparotomie pour GEU;14;quantite_cout;;id_structure;I.1.8. LAPAROTOMIE POUR GEU ACCOUCHEMENT;VVKi9MjBzmt;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Cure de fistules obstétricales;15;quantite_cout;;id_structure;I.1.9. CURE DE FISTULES OBSTETRICALES ACCOUCHEMENT;UE15LtMhNLd;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;II.2.1.Carburant évacuation;150;quantite_cout;;id_structure;I.2.1. CARBURANT EVACUATION ACCOUCHEMENT;tlFGVNO6JDp;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;II.2.2.Montant total des médicaments et consommables médicaux;151;quantite_cout;;id_structure;I.2.2. MONTANT TOTAL DES MEDICAMENTS ACCOUCHEMENT;b5zddUTPqbx;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;II.2.4.Actes (consultations);153;quantite_cout;;id_structure;I.2.3. ACTES CONSULTATION_ACCOUCHEMENT_INTERVENTION_OBSTETRICALES;HWni6oxix39;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;II.2.5.Mise en observation/Hospitalisation;154;quantite_cout;;id_structure;I.2.4. ACCOUCHEMENT HOSPITALISATION/MISE EN OBSERVATION ACCOUCHEMENT;GGj1rTezVkm;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;II.2.3.Examens complémentaires;152;quantite_cout;;id_structure;I.2.5. EXAMENS COMPLEMENTAIRES ACCOUCHEMENT;treytA0cihL;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Soins préventifs;34;quantite_cout;;id_structure;II.1.1. SOINS PREVENTIFS GROSSESSE;wH8wwOjLuWn;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Soins curatifs en ambulatoire;35;quantite_cout;;id_structure;II.1.2. SOINS CURATIFS EN AMBULATOIRE GROSSESSE;W9RA9p4esbn;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Soins curatifs en interne (hospitalisation ou mise en observation);36;quantite_cout;;id_structure;II.1.3. SOINS CURATIFS EN INTERNE HOSPITALISATION OU MISE EN OBSERVATION GROSSESSE;HvpFmo9uYaQ;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;I.2.1.Carburant évacuation;140;quantite_cout;;id_structure;II.2.1. CARBURANT EVACUATION GROSSESSE;YkBq4PRnLQO;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;I.2.2.Montant total des médicaments et consommables médicaux;141;quantite_cout;;id_structure;II.2.2. MONTANT TOTAL DES MEDICAMENTS GROSSESSE;f7MEjWMvfWa;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;I.2.4.Actes (consultations);143;quantite_cout;;id_structure;II.2.3. ACTES CONSULTATION_ACCOUCHEMENT_INTERVENTION GROSSESSE;P3bkU5bGGhU;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;I.2.5.Mise en observation/Hospitalisation;144;quantite_cout;;id_structure;II.2.4. HOSPITALISATION/MISE EN OBSERVATION GROSSESSE;SzvzKYAuVGk;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;I.2.3.Examens complémentaires;142;quantite_cout;;id_structure;II.2.5. EXAMENS COMPLEMENTAIRES GROSSESSE;alThHtLWpM6;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Ligature des trompes;22;quantite_cout;;id_structure;III.1.1. LIGATURE DES TROMPES PF;aWeJSDEnTBu;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Sayana Press;29;quantite_cout;;id_structure;III.1.10. SAYANA PRESS PF;KnG0D59pT9h;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Pilule;30;quantite_cout;;id_structure;III.1.11. PILULE PF;AK5b6ermOdI;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Condom masculin;31;quantite_cout;;id_structure;III.1.12. CONDOM MASCULIN PF;m5nUTyDn0jc;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Condom féminin;32;quantite_cout;;id_structure;III.1.13. CONDOM FEMININ PF;RDBwcoqxZoP;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Collier;33;quantite_cout;;id_structure;III.1.14. COLLIER PF;k8MYymX0LDF;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Vasectomie;23;quantite_cout;;id_structure;III.1.2. VASECTOMIE PF;N4IYjsBVk1Z;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;DIU insertion ou retrait;25;quantite_cout;;id_structure;III.1.3. DIU INSERTION OU RETRAIT PF;bIuRc0t7VKU;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Implant 5 ans insertion ou retrait;26;quantite_cout;;id_structure;III.1.4. IMPLANT 5 ANS INSERTION OU RETRAIT PF;qFsddqNT8SR;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Implant 3 ans insertion ou retrait;27;quantite_cout;;id_structure;III.1.5. IMPLANT 3 ANS INSERTION OU RETRAIT PF;ey5T5fX5HaR;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Depo-Provera;28;quantite_cout;;id_structure;III.1.9. DEPO-PROVERA PF;gIPzhdHCt2E;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;V.2.2.Montant total des médicaments et consommables médicaux;161;quantite_cout;;id_structure;III.2.1. MONTANT TOTAL DES MEDICAMENTS ET CONSOMMABLES MEDICAUX PF;SqSq6duOBuc;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;V.2.3.Examens complémentaires;162;quantite_cout;;id_structure;III.2.2. EXAMENS COMPLEMENTAIRES PF;kgwsTITsUzy;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;V.2.4.Actes (consultations);163;quantite_cout;;id_structure;III.2.3. ACTES PF;tss1eVyOJjH;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;V.2.1.Carburant évacuation;160;quantite_cout;;id_structure;III.2.4. CARBURANT SI EVACUATION PF;lAqsZNzpmDX;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Soins curatifs en ambulatoire;20;quantite_cout;;id_structure;IV.1.1. SOINS CURATIFS EN AMBULATOIRE ENFANTS;InGas9oaZSN;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Soins curatifs en hospitalisation;21;quantite_cout;;id_structure;IV.1.2. SOINS CURATIFS EN HOSPITALISATION/MISE EN OBSERVATION ENFANTS;oRFOXKPOKOn;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;IV.2.1.Carburant évacuation;155;quantite_cout;;id_structure;IV.2.1. CARBURANT EVACUATION ENFANTS;iFD7tnorZlt;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;IV.2.2.Montant total des médicaments et consommables médicaux;156;quantite_cout;;id_structure;IV.2.2. MONTANT TOTAL DES MEDICAMENTS ENFANTS;O0h8l5hpREm;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;IV.2.4.Actes (consultations);158;quantite_cout;;id_structure;IV.2.3. ACTES CONSULTATION_ACCOUCHEMENT_INTERVENTION ENFANTS;g74JOV7Vbnu;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;IV.2.5.Mise en observation/Hospitalisation;159;quantite_cout;;id_structure;IV.2.4. HOSPITALISATION/MISE EN OBSERVATION ENFANTS;AU3K2CsEPT0;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;IV.2.3.Examens complémentaires;157;quantite_cout;;id_structure;IV.2.5. EXAMENS COMPLEMENTAIRES ENFANTS;QoGjtjGiPVU;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;IVA/IVL;16;quantite_cout;;id_structure;V.1.1. IVA/IVL DEPISTAGE;W42yK7NqsGA;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Cryothérapie;17;quantite_cout;;id_structure;V.1.2. CRYOTHERAPIE DEPISTAGE;XAIZKwukJRb;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;Résection à l’Anse Diathermique (RAD);18;quantite_cout;;id_structure;V.1.3. RESECTION A L_ANSE DIATHERMIQUE RAD DEPISTAGE;eDb3M21Cwpm;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;III.2.2.Montant total des médicaments et consommables médicaux;146;quantite_cout;;id_structure;V.2.1 MONTANT TOTAL DES MEDICAMENTS DEPISTAGE;J3WGodYDMPm;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;III.2.4.Actes (consultations);148;quantite_cout;;id_structure;V.2.2. ACTES CONSULTATIONS_HOSPITALISATION DEPISTAGE;oXOXwucJXc9;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
+;rapport;;id_prestation;III.2.3.Examens complémentaires;147;quantite_cout;;id_structure;V.2.3. EXAMENS COMPLEMENTAIRES DEPISTAGE;soBSH0ujCXj;Quantite_Cout;UMaU0DHlm3l;;;uuid_fs
