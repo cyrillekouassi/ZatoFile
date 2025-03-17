@@ -1,8 +1,3 @@
 ﻿description;typePeriode;fis_typeData;fis_slug;fis_elementKey;fis_elementName;fis_elementId;fis_groupeCode;fis_valueKey;fis_structureKey;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_orgUnitKey
-;MENSUELLE;indicateurs;mode-sortie;id_prestation;Nombre de patients decede;60;;nombre_patient;uuid_fs;FIS_Nombre de patients decede;wkKB6Lyy1gf;;;;;uuid_edm_pres
-;MENSUELLE;indicateurs;mode-sortie;id_prestation;Nombre de patients decharge;62;;nombre_patient;uuid_fs;FIS_Nombre de patients decharge;dVLcka86nhb;;;;;uuid_edm_pres
-;MENSUELLE;indicateurs;mode-sortie;id_prestation;Nombre de patients evacue;58;;nombre_patient;uuid_fs;FIS_Nombre de patients evacue;rO70WhR1knK;;;;;uuid_edm_pres
-;MENSUELLE;indicateurs;mode-sortie;id_prestation;Nombre de patients evade;64;;nombre_patient;uuid_fs;FIS_Nombre de patients evade;LFrmZKeoUMV;;;;;uuid_edm_pres
-;MENSUELLE;indicateurs;mode-sortie;id_prestation;Nombre de patients gueris/sortie normal;59;;nombre_patient;uuid_fs;FIS_Nombre de patients gueris/sortie normal;iDK50RRW3b8;;;;;uuid_edm_pres
-;MENSUELLE;indicateurs;mode-sortie;id_prestation;Nombre de patients refere;61;;nombre_patient;uuid_fs;FIS_Nombre de patients refere;cTwTcc1exc0;;;;;uuid_edm_pres
-;MENSUELLE;indicateurs;mode-sortie;id_prestation;Nombre de patients transfere;63;;nombre_patient;uuid_fs;FIS_Nombre de patients transfere;hN384aWwfby;;;;;uuid_edm_pres
+;MENSUELLE;indicateurs;produit;id_prestation;Cout total de médicament;sNqsk0dnWy5;;cout_total_prod;uuid_fs;FIS_Cout total de médicament;sNqsk0dnWy5;;;;;uuid_edm_pres
+;MENSUELLE;indicateurs;produit;id_prestation;Quantite total de médicament;ksbJYiuvSHt;;cout_total_prod;uuid_fs;FIS_Quantite total de médicament;ksbJYiuvSHt;;;;;uuid_edm_pres
