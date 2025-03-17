@@ -1,3 +1,3 @@
 ﻿description;typePeriode;fis_typeData;fis_slug;fis_elementKey;fis_elementName;fis_elementId;fis_groupeCode;fis_valueKey;fis_structureKey;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_orgUnitKey
-;MENSUELLE;indicateurs;produit;id_prestation;Cout total de médicament;sNqsk0dnWy5;;cout_total_prod;uuid_fs;FIS_Cout total de médicament;sNqsk0dnWy5;;;;;uuid_edm_pres
-;MENSUELLE;indicateurs;produit;id_prestation;Quantite total de médicament;ksbJYiuvSHt;;cout_total_pro;uuid_fs;FIS_Quantite total de médicament;ksbJYiuvSHt;;;;;uuid_edm_pres
+;MENSUELLE;indicateurs;produit;libelle;FIS_Cout total de médicament;FIS_Cout total de médicament;;cout_total_prod;id_structure;FIS_Cout total de médicament;sNqsk0dnWy5;;;;;uuid_edm_pres
+;MENSUELLE;indicateurs;produit;libelle;Quantite total de médicament;quantite_total_prod;;cout_total_pro;id_structure;FIS_Quantite total de médicament;ksbJYiuvSHt;;;;;uuid_edm_pres
