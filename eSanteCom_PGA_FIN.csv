@@ -1,0 +1,8 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;pga_Name;pga_key
+5;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;1;Code ASBC;Code ASBC;code_asbc
+5;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;2;Numéro CNIB;Numéro CNIB;numero_cnib
+5;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;3;date de l'operation;Date opération;date_operation
+5;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;4;l'ASBC est-il en fin de contrat ?;Fin de contrat;fin_contrat
+5;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;5;Date de fin de contrat;date fin contrat;date_fin_contrat
+5;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;6;Motif de fin contrat;motif fin contrat;motif_fin_contrat
+5;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;7;Code Opération;Code Opération;code_operation
