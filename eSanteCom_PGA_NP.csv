@@ -1,0 +1,9 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;pga_Name;pga_key
+1;0bc2c4d3-4ba2-4396-b169-f909f5ea3681;Enregistrement ASBC Nom et prénom;enregasbcnp;1;Code ASBC;Code ASBC;code_asbc
+1;0bc2c4d3-4ba2-4396-b169-f909f5ea3681;Enregistrement ASBC Nom et prénom;enregasbcnp;2;Nom;Nom;nom
+1;0bc2c4d3-4ba2-4396-b169-f909f5ea3681;Enregistrement ASBC Nom et prénom;enregasbcnp;3;Prénom;Prénom;prenom
+1;0bc2c4d3-4ba2-4396-b169-f909f5ea3681;Enregistrement ASBC Nom et prénom;enregasbcnp;4;Code Opération;Code Opération;code_operation
+2;0bc2c4d3-4ba2-4396-b169-f909f5ea3681;Enregistrement ASBC Nom et prénom;modifasbcnp;1;Code ASBC;Code ASBC;code_asbc
+2;0bc2c4d3-4ba2-4396-b169-f909f5ea3681;Enregistrement ASBC Nom et prénom;modifasbcnp;2;Nom;Nom;nom
+2;0bc2c4d3-4ba2-4396-b169-f909f5ea3681;Enregistrement ASBC Nom et prénom;modifasbcnp;3;Prénom;Prénom;prenom
+2;0bc2c4d3-4ba2-4396-b169-f909f5ea3681;Enregistrement ASBC Nom et prénom;modifasbcnp;4;Code Opération;Code Opération;code_operation
