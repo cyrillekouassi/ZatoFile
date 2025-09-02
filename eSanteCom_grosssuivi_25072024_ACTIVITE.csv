@@ -1,0 +1,16 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_orgUnitCode;dhis_periode;dhis_typePeriode;dhis_changeToPeriode;dhis_promptitude;dhis_reference;dhis_dataSetName;dhis_dataSetId;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_assignValue;dhis_addValue
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;1;Code ASBC;oui;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;2;code personne;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;3;Date de visite;;;;oui;oui;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;4;Etes-vous allée au SPN après la dernière visite?;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;5;La femme a-t-elle des saignements ?;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;6;La femme a-t-elle une fievre et des frissions ?;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;7;La femme a-t-elle des maux de tete ?;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;8;La femme a-t-elle des convulsions ?;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;9;La femme a-t-elle des douleurs pelviennes ?;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;10;Quantité de fer acide follique distribuée;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;11;Quantité de MMS distribuée;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;12;Distribution de Sulfadoxine pyrimethamine (SP);;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;13;Nombre de Sulfadoxine pyrimethamine (SP);;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;14;Code operation;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+10;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;grosssuivi;;;;;;;;;Activité ASBC;tqIum6VDHOH;Nombre de SMS;ehvoRQe4CJm;;;default;HllvX50cXC0;1;oui

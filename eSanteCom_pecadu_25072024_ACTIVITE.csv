@@ -1,0 +1,16 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_orgUnitCode;dhis_periode;dhis_typePeriode;dhis_changeToPeriode;dhis_promptitude;dhis_reference;dhis_dataSetName;dhis_dataSetId;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_assignValue;dhis_addValue
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;1;Code ASBC;oui;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;2;code personne;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;3;code Prise en charge;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;4;age en années;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;5;Date de prise en charge;;;;oui;oui;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;6;Toux / difficulté respiratoire;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;7;Fièvre / Corps chaud;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;8;Diarrhée;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;9;Autre motif de consultation;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;10;Fièvre dans les 72H;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;11;Présence du traitement du paludisme;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;12;Réalisation de TDR;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;13;Présence de Signe de gravité;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;14;Code opération;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+3;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;pecadu;;;;;;;;;Activité ASBC;tqIum6VDHOH;Nombre de SMS;ehvoRQe4CJm;;;default;HllvX50cXC0;1;oui

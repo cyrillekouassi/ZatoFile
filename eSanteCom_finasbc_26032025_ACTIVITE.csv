@@ -1,0 +1,9 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_orgUnitCode;dhis_periode;dhis_typePeriode;dhis_changeToPeriode;dhis_promptitude;dhis_reference;dhis_dataSetName;dhis_dataSetId;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_assignValue;dhis_addValue
+23;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;1;Code ASBC;oui;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+23;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;2;Numéro CNIB;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+23;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;3;date de l'operation;;;;oui;oui;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+23;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;4;l'ASBC est-il en fin de contrat ?;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+23;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;5;Date de fin de contrat;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+23;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;6;Motif de fin contrat;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+23;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;7;Code Opération;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+23;cb1c1a0e-c60f-4438-8f83-830a8a1a22ec;FIN DE CONTRAT DES ASBC;finasbc;;;;;;;;;Activité ASBC;tqIum6VDHOH;Nombre de SMS;ehvoRQe4CJm;;;default;HllvX50cXC0;1;oui

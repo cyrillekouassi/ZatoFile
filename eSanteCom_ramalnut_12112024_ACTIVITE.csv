@@ -1,0 +1,10 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_orgUnitCode;dhis_periode;dhis_typePeriode;dhis_changeToPeriode;dhis_promptitude;dhis_reference;dhis_dataSetName;dhis_dataSetId;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_assignValue;dhis_addValue
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;ramalnut;1;Code ASBC;oui;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;ramalnut;2;oedemes;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;ramalnut;3;PB;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;ramalnut;4;Nouveau cas;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;ramalnut;5;Ancien cas;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;ramalnut;6;code Personne;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;ramalnut;7;Date Opération;;;;oui;oui;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;ramalnut;8;Code opération;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+5;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;ramalnut;;;;;;;;;Activité ASBC;tqIum6VDHOH;Nombre de SMS;ehvoRQe4CJm;;;default;HllvX50cXC0;1;oui

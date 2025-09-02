@@ -1,0 +1,14 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_orgUnitCode;dhis_periode;dhis_typePeriode;dhis_changeToPeriode;dhis_promptitude;dhis_reference;dhis_dataSetName;dhis_dataSetId;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_assignValue;dhis_addValue
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;1;Code ASBC;oui;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;2;Code personne;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;3;Date de naissance;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;4;Nom;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;5;Prénom;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;6;Nom de la maman;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;7;Genre;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;8;Lieu de provenance;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;9;Téléphone personne;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;10;date de l'operation;;;;oui;oui;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;11;Date Enregistrement Personne;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;12;Code Opération;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+1;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregpers;;;;;;;;;Activité ASBC;tqIum6VDHOH;Nombre de SMS;ehvoRQe4CJm;;;default;HllvX50cXC0;1;oui

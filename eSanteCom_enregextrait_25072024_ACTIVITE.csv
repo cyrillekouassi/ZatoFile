@@ -1,0 +1,7 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_orgUnitCode;dhis_periode;dhis_typePeriode;dhis_changeToPeriode;dhis_promptitude;dhis_reference;dhis_dataSetName;dhis_dataSetId;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_assignValue;dhis_addValue
+16;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregextrait;1;Code ASBC;oui;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+16;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregextrait;2;date de l'opération;;;;oui;oui;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+16;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregextrait;3;Code Personne;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+16;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregextrait;4;L'enfant a-t-il maintenant un acte de naissance ?;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+16;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregextrait;5;Code de l'opération;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+16;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;enregextrait;;;;;;;;;Activité ASBC;tqIum6VDHOH;Nombre de SMS;ehvoRQe4CJm;;;default;HllvX50cXC0;1;oui

@@ -1,0 +1,33 @@
+﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_orgUnitCode;dhis_periode;dhis_typePeriode;dhis_changeToPeriode;dhis_promptitude;dhis_reference;dhis_dataSetName;dhis_dataSetId;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_assignValue;dhis_addValue
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;1;Code ASBC;oui;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;2;code Personne;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;3;code PEC;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;4;Date de suivi;;;;oui;oui;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;5;Suivi pneumo incapable de boire ou teter;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;6;Suivi pneumo vomit tout;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;7;Suivi pneumo convulsion;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;8;Suivi pneumo lethargie inconscient;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;9;Suivi pneumo respiration;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;10;Suivi pneumo alimentation;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;11;Suivi pneumo medicaments;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;12;Suivi pneumo tirage sous-costal;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;13;Nombre de mouvements respiratoire par minute :;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;14;Suivi diarrhée medicaments;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;15;Suivi diarrhée diarrhée;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;16;Suivi diarrhée sang selle;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;17;Suivi diarrhée alimentation;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;18;Suivi diarrhée vomit tout;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;19;Suivi diarrhée convulsion;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;20;Suivi diarrhée lethargie inconscient;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;21;Suivi diarrhée yeux enfoncé;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;22;Suivi diarrhée assoiffé;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;23;Suivi diarrhée agité irritable;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;24;Suivi diarrhée plis cutané;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;25;Suivi paludisme medicaments;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;26;Suivi paludisme fièvre;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;27;Suivi paludisme alimentation;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;28;Suivi paludisme vomit tout;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;29;Suivi paludisme convulsion;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;30;Suivi paludisme lethargie inconscient;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;31;Code opération;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+7;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;suivipec;;;;;;;;;Activité ASBC;tqIum6VDHOH;Nombre de SMS;ehvoRQe4CJm;;;default;HllvX50cXC0;1;oui
