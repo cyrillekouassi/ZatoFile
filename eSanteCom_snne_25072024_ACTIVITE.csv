@@ -1,8 +1,8 @@
 ﻿ordreExecution;rapidpro_flowUuid;rapidpro_flowName;rapidpro_declancheur;rapidpro_position;rapidpro_name;dhis_orgUnitCode;dhis_periode;dhis_typePeriode;dhis_changeToPeriode;dhis_promptitude;dhis_reference;dhis_dataSetName;dhis_dataSetId;dhis_dataElementName;dhis_dataElementId;dhis_categorieComboName;dhis_categorieComboId;dhis_categorieComboOptionName;dhis_categorieComboOptionId;dhis_assignValue;dhis_addValue
 12;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;snne;1;Code ASBC;oui;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
-12;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;snne;2;code personne;;;;oui;oui;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+12;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;snne;2;code personne;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
 12;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;snne;3;Age personne (age de l'enfant en jour);;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
-12;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;snne;4;Date de visite;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
+12;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;snne;4;Date de visite;;;;oui;oui;;Activité ASBC;tqIum6VDHOH;;;;;;;;
 12;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;snne;5;Jour de visite;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
 12;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;snne;6;Le lieu de naissance du bébé;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
 12;88239964-dce6-4c3e-a083-dd0c4e2504a6;ACTIVITES ASBC;snne;7;L'enfant est-il de faible poids ?;;;;;;;Activité ASBC;tqIum6VDHOH;;;;;;;;
