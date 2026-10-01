@@ -1,0 +1,558 @@
+{
+    "programRuleVariables":
+    [
+        {
+            "name": "RAM_Evolution_patient",
+            "created": "2026-08-06T06:42:10.302",
+            "lastUpdated": "2026-09-09T17:58:46.038",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "bW5FR6l4to7"
+            },
+            "useCodeForOptionSet": true,
+            "id": "SF0kr7pFAcW",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Date_naissance",
+            "created": "2026-07-23T12:53:55.918",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "useCodeForOptionSet": false,
+            "id": "JXD59ofyFrE",
+            "programRuleVariableSourceType": "TEI_ATTRIBUTE",
+            "trackedEntityAttribute":
+            {
+                "id": "UXBSOOQwmJs"
+            },
+            "valueType": "DATE"
+        },
+        {
+            "name": "RAM_Patient_revu_",
+            "created": "2026-08-06T06:36:34.471",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "ju9QLfdZG1d"
+            },
+            "useCodeForOptionSet": true,
+            "id": "jNcKKwdPTvY",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Antibiotherapie_dans_les_3_derniers_mois",
+            "created": "2026-07-23T13:47:09.224",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "kqA91unZIjE"
+            },
+            "useCodeForOptionSet": true,
+            "id": "maSEsJ6Lc5l",
+            "programRuleVariableSourceType": "DATAELEMENT_NEWEST_EVENT_PROGRAM",
+            "valueType": "BOOLEAN"
+        },
+        {
+            "name": "RAM_Agent_pathogene_teste",
+            "created": "2026-08-05T18:38:59.421",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "cvNTZSMS0aN"
+            },
+            "useCodeForOptionSet": true,
+            "id": "wiishsU2EeO",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Domaine_prelevement",
+            "created": "2026-08-04T12:27:30.731",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "useCodeForOptionSet": true,
+            "id": "sjvTryFqvs8",
+            "programRuleVariableSourceType": "TEI_ATTRIBUTE",
+            "trackedEntityAttribute":
+            {
+                "id": "PwyFU5uzbpn"
+            },
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Antibioprophylaxie_",
+            "created": "2026-08-06T06:33:01.899",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "F4dIspTKuX5"
+            },
+            "useCodeForOptionSet": true,
+            "id": "mVrhoM0fGg6",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Moyen_transfert",
+            "created": "2026-08-04T11:21:01.157",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "XEH5TL2d7No"
+            },
+            "useCodeForOptionSet": true,
+            "id": "KxlefRGnWI4",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Antibiotique teste",
+            "created": "2026-08-06T13:19:08.974",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "useCodeForOptionSet": true,
+            "id": "xZOmTl1IC1F",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Produits_biologique",
+            "created": "2026-08-03T16:04:55.588",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "A8CaAjeFAze"
+            },
+            "useCodeForOptionSet": true,
+            "id": "i0IYYYvDJA6",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Hospitalisation",
+            "created": "2026-07-23T13:12:56.210",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "T3YV0WPu5rC"
+            },
+            "useCodeForOptionSet": true,
+            "id": "ELDCb2I2Etf",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Suppuration_",
+            "created": "2026-08-06T06:18:51.769",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "CQimV778czM"
+            },
+            "useCodeForOptionSet": true,
+            "id": "PvyUbmZ5K5I",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TRUE_ONLY"
+        },
+        {
+            "name": "RAM_Motif_prelevement",
+            "created": "2026-08-03T15:53:04.152",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "BoRxI1389OX"
+            },
+            "useCodeForOptionSet": true,
+            "id": "qlh2yzj4C34",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Age_en_annee",
+            "created": "2026-07-23T12:52:51.456",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "useCodeForOptionSet": true,
+            "id": "BdzAEckP2vI",
+            "programRuleVariableSourceType": "TEI_ATTRIBUTE",
+            "trackedEntityAttribute":
+            {
+                "id": "Rv8WM2mTuS5"
+            },
+            "valueType": "NUMBER"
+        },
+        {
+            "name": "RAM_Resultat__Sensibilite",
+            "created": "2026-08-05T18:45:52.137",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "eNnNFOZUSA0"
+            },
+            "useCodeForOptionSet": true,
+            "id": "qctrktVFDnF",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Bacterie_identifiee",
+            "created": "2026-08-03T16:23:04.110",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "UoRpxlTIQy4"
+            },
+            "useCodeForOptionSet": true,
+            "id": "koVR6036GVV",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        },
+        {
+            "name": "RAM_Intervention_Chirurgicale_realisee",
+            "created": "2026-08-06T06:07:29.167",
+            "lastUpdated": "2026-09-09T17:58:46.039",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "dataElement":
+            {
+                "id": "V6mrvLimCDn"
+            },
+            "useCodeForOptionSet": true,
+            "id": "UPyInNNoiOo",
+            "programRuleVariableSourceType": "DATAELEMENT_CURRENT_EVENT",
+            "valueType": "TEXT"
+        }
+    ],
+    "programRules":
+    [
+        {
+            "name": "3_ Masquer les antibiotiques non applicable à l'agent pathogène Escherichia coli pour le test",
+            "created": "2026-08-06T11:15:19.828",
+            "lastUpdated": "2026-09-09T17:58:46.271",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "programStage":
+            {
+                "id": "gQC8PHy4ZNc"
+            },
+            "programRuleActions":
+            [
+                {
+                    "id": "eLOiVQVhDOI"
+                },
+                {
+                    "id": "tsCrcmvqqDe"
+                },
+                {
+                    "id": "SxR3VoUZoYX"
+                },
+                {
+                    "id": "XoiJg9f1WNU"
+                },
+                {
+                    "id": "PhhcttrwkNk"
+                },
+                {
+                    "id": "c9kMWKmPjBQ"
+                },
+                {
+                    "id": "FOx9gmASyns"
+                },
+                {
+                    "id": "VKVJIlPUqqq"
+                },
+                {
+                    "id": "WAsPSG11HzL"
+                },
+                {
+                    "id": "DqVWEDkfDDo"
+                },
+                {
+                    "id": "UxP4WZp8N9h"
+                },
+                {
+                    "id": "koi019WGRhu"
+                },
+                {
+                    "id": "WhA4NoK6RkR"
+                },
+                {
+                    "id": "ChUYyJv7Wxf"
+                },
+                {
+                    "id": "BGBzj22zLbG"
+                },
+                {
+                    "id": "hfs8N4MjG2n"
+                },
+                {
+                    "id": "Rh1Cm2UnEGT"
+                },
+                {
+                    "id": "E9y84KrP7op"
+                },
+                {
+                    "id": "zx4RzwW8xOm"
+                },
+                {
+                    "id": "bhNoggfMFK7"
+                },
+                {
+                    "id": "RNFKpvTY4rj"
+                }
+            ],
+            "condition": "#{RAM_Agent_pathogene_teste}  == 'E_COLI'",
+            "id": "plmQf6sJEW9"
+        }
+    ]
+}

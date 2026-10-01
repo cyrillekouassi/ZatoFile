@@ -1,0 +1,904 @@
+{
+    "programRuleActions":
+    [
+        {
+            "created": "2026-08-06T11:33:03.631",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "bxuol6PJ5Ut"
+            },
+            "id": "uFhGgh40Won"
+        },
+        {
+            "created": "2026-08-06T11:33:03.631",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "XZUDmpW0ABu"
+            },
+            "id": "q8kklRFUMAf"
+        },
+        {
+            "created": "2026-08-06T11:33:03.631",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "AW6BG00zeNs"
+            },
+            "id": "gFV6Tw8pra6"
+        },
+        {
+            "created": "2026-08-06T11:33:03.631",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "aUzflHQUSlA"
+            },
+            "id": "SHReWRBmXSv"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.877",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "j7hxZuEaGMS"
+            },
+            "id": "tCewHNGPngC"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "EJT5ManPXh4"
+            },
+            "id": "MnlG3upaSPb"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.877",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "Mu7H6A4RCwm"
+            },
+            "id": "uFq2JVL59zG"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "NbMnKh6O87R"
+            },
+            "id": "XwsFodQ61jb"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.877",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "fJXB2V340kn"
+            },
+            "id": "w2Ro30HeLo9"
+        },
+        {
+            "created": "2026-08-06T11:50:00.922",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "VENLXuDf2vw"
+            },
+            "id": "yGjukDDIbw8"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "STjQ8rZRzDp"
+            },
+            "id": "Gt260WSEQld"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "LskDmuDLRht"
+            },
+            "id": "RhFPK8qUvgu"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "sHvL9s3eH4P"
+            },
+            "id": "PgXaGEJbWWT"
+        },
+        {
+            "created": "2026-08-06T11:33:03.631",
+            "lastUpdated": "2026-09-09T17:51:07.877",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "gg5iYdw9cDN"
+            },
+            "id": "qK1PZTlldrS"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.877",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "bz4rdJbvFHH"
+            },
+            "id": "SuQAB6M5fEp"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "FG74QniuiDu"
+            },
+            "id": "cssw3FfaryQ"
+        },
+        {
+            "created": "2026-08-06T11:43:05.627",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "tXAM6e3ZCoV"
+            },
+            "id": "A4URvCydZ3l"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "mFLeAhxDGYi"
+            },
+            "id": "BgI2nUeMotb"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "SKxubM062Pp"
+            },
+            "id": "oxnLAQODtxn"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "FWFp9nLssyL"
+            },
+            "id": "xSA3g764gVT"
+        },
+        {
+            "created": "2026-08-06T11:33:03.631",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "TkUECPdvEHK"
+            },
+            "id": "Sg6EsCD1ZyU"
+        },
+        {
+            "created": "2026-08-06T11:33:03.631",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "uIkWmZW6IBv"
+            },
+            "id": "pkRJmBkjOol"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "fYfNbzA07zA"
+            },
+            "id": "GPklS4V7STV"
+        },
+        {
+            "created": "2026-08-06T11:33:03.631",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "VmigDDnVtOJ"
+            },
+            "id": "NN2NV8ciK9X"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "NigSrIDoxBD"
+            },
+            "id": "fSxffNilcDK"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "I1JTmq6q5G6"
+            },
+            "id": "VHjmNtruTIg"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "wQVkWnfSYPE"
+            },
+            "id": "MVp5nkN4ef9"
+        },
+        {
+            "created": "2026-08-06T11:33:03.632",
+            "lastUpdated": "2026-09-09T17:51:07.878",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "programRule":
+            {
+                "id": "a4pbZIyIda5"
+            },
+            "programRuleActionType": "HIDEOPTION",
+            "dataElement":
+            {
+                "id": "AxW3Gnet44i"
+            },
+            "option":
+            {
+                "id": "f1xGdtLzXLt"
+            },
+            "id": "DfLh00YT0Ej"
+        }
+    ],
+    "programRules":
+    [
+        {
+            "name": "1_ Masquer les antibiotiques non applicable à l'agent pathogène Autre Non entérobactérie pour le test",
+            "created": "2026-08-06T12:23:13.051",
+            "lastUpdated": "2026-09-09T17:51:08.063",
+            "translations":
+            [],
+            "lastUpdatedBy":
+            {
+                "id": "fyDJejgFpWf",
+                "code": null,
+                "name": "ckouassi ckouassi",
+                "displayName": "ckouassi ckouassi",
+                "username": "ckouassi"
+            },
+            "program":
+            {
+                "id": "lsw7IWBCbNw"
+            },
+            "programStage":
+            {
+                "id": "gQC8PHy4ZNc"
+            },
+            "programRuleActions":
+            [
+                {
+                    "id": "uFhGgh40Won"
+                },
+                {
+                    "id": "q8kklRFUMAf"
+                },
+                {
+                    "id": "gFV6Tw8pra6"
+                },
+                {
+                    "id": "SHReWRBmXSv"
+                },
+                {
+                    "id": "tCewHNGPngC"
+                },
+                {
+                    "id": "MnlG3upaSPb"
+                },
+                {
+                    "id": "uFq2JVL59zG"
+                },
+                {
+                    "id": "XwsFodQ61jb"
+                },
+                {
+                    "id": "w2Ro30HeLo9"
+                },
+                {
+                    "id": "yGjukDDIbw8"
+                },
+                {
+                    "id": "Gt260WSEQld"
+                },
+                {
+                    "id": "RhFPK8qUvgu"
+                },
+                {
+                    "id": "PgXaGEJbWWT"
+                },
+                {
+                    "id": "qK1PZTlldrS"
+                },
+                {
+                    "id": "SuQAB6M5fEp"
+                },
+                {
+                    "id": "cssw3FfaryQ"
+                },
+                {
+                    "id": "A4URvCydZ3l"
+                },
+                {
+                    "id": "BgI2nUeMotb"
+                },
+                {
+                    "id": "oxnLAQODtxn"
+                },
+                {
+                    "id": "xSA3g764gVT"
+                },
+                {
+                    "id": "Sg6EsCD1ZyU"
+                },
+                {
+                    "id": "pkRJmBkjOol"
+                },
+                {
+                    "id": "GPklS4V7STV"
+                },
+                {
+                    "id": "NN2NV8ciK9X"
+                },
+                {
+                    "id": "fSxffNilcDK"
+                },
+                {
+                    "id": "VHjmNtruTIg"
+                },
+                {
+                    "id": "MVp5nkN4ef9"
+                },
+                {
+                    "id": "DfLh00YT0Ej"
+                }
+            ],
+            "condition": "#{RAM_Agent_pathogene_teste} == 'OTHER_NON_ENTERO'",
+            "id": "a4pbZIyIda5"
+        }
+    ]
+}
