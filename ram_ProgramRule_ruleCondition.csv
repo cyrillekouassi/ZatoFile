@@ -1,0 +1,12 @@
+﻿Name;condition;file
+Masquer les antibiotiques non applicable à l'agent pathogène Acinetobacter baumannii pour le test;A_BAUMANNII;N_0_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Autre Non entérobactérie pour le test;OTHER_NON_ENTERO;N_1_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Autre entérobactérie pour le test;OTHER_ENTERO;N_2_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Escherichia coli pour le test;E_COLI;N_3_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Klebsiella pneumoniae pour le test;K_PNEUMONIAE;N_4_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Neisseria gonorrhoeae pour le test;N_GONORRHOEAE;N_5_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Pseudomonas aeruginosa pour le test;P_AERUGINOSA;N_6_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Salmonella spp. pour le test;SALMONELLA_SPP;N_7_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Shigella spp. pour le test;SHIGELLA_SPP;N_9_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Staphylococcus aureus pour le test;S_AUREUS;N_10_Test_ProgramRule.json
+Masquer les antibiotiques non applicable à l'agent pathogène Streptococcus pneumoniae pour le test;S_PNEUMONIAE;N_11_Test_ProgramRule.json
